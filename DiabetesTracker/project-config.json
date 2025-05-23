@@ -1,0 +1,9 @@
+ {
+    "name": "diabetes-tracker",
+    "projectStructure": {
+      "frontend": "react-native",
+      "backend": "express",
+      "database": "mongodb",
+      "ml": "python/tensorflow"
+    }
+  }

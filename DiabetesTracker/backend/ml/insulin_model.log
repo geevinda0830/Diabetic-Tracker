@@ -1,0 +1,215 @@
+2025-03-16 22:43:16,370 - insulin_prediction - INFO - Model loaded from /Users/malithgeevinda/DiabetesTracker/backend/ml/models/insulin_model.joblib
+2025-03-16 23:08:47,792 - insulin_prediction - INFO - Model loaded from /Users/malithgeevinda/DiabetesTracker/backend/ml/models/insulin_model.joblib
+2025-03-16 23:08:47,795 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,795 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,796 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,796 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,797 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,797 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,798 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,798 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,799 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,799 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,800 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,800 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,801 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,801 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,802 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,802 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,802 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,802 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,803 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,803 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,804 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,804 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,805 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,805 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,806 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,806 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,807 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,807 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,807 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,807 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,808 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,809 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,810 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,810 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,811 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,811 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,812 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,812 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,812 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,812 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,813 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,813 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,814 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,815 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,815 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,815 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,816 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,816 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,817 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,817 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,818 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,818 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,819 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,819 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,820 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,820 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,821 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,821 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,822 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,822 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,823 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,823 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,824 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,824 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,825 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,825 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,826 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,826 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,827 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,827 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,827 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,827 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,828 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,828 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,829 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,829 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,830 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,830 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,831 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,831 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,832 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,832 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,833 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,833 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,834 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,834 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,835 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,835 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,835 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,835 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,836 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,836 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,837 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,837 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,838 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,838 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,839 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,839 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:47,840 - insulin_prediction - ERROR - Error in ML prediction: columns are missing: {'previous_insulin_dose'}
+2025-03-16 23:08:47,840 - insulin_prediction - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,756 - glucose_prediction_model - INFO - Model loaded from /Users/malithgeevinda/DiabetesTracker/backend/ml/models/glucose_model.joblib
+2025-03-16 23:08:48,758 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,758 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,759 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,759 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,760 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,761 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,762 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,762 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,763 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,763 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,764 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,764 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,765 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,765 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,766 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,766 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,767 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,767 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,768 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,768 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,769 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,769 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,771 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,771 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,772 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,772 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,773 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,773 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,774 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,774 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,775 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,775 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,776 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,776 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,777 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,777 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,778 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,778 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,779 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,779 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,780 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,780 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,781 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,781 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,782 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,782 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,784 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,784 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,785 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,785 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,786 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,786 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,787 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,787 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,788 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,788 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,789 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,789 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,790 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,790 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,791 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,791 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,792 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,792 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,793 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,793 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,794 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,794 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,795 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,795 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,797 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,797 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,798 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,798 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,799 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,799 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,800 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,800 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,801 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,801 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,802 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,802 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,803 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,803 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,804 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,804 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,805 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,805 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,806 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,806 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,807 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,807 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,808 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,808 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,809 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,809 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,810 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,810 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-03-16 23:08:48,811 - glucose_prediction_model - ERROR - Error in ML prediction: columns are missing: {'glucose_rolling_std', 'insulin_sensitivity_factor', 'hour', 'weight', 'glucose_rolling_mean', 'day_of_week', 'insulin_to_carb_ratio'}
+2025-03-16 23:08:48,811 - glucose_prediction_model - INFO - Falling back to rule-based calculation
+2025-05-23 15:05:46,782 - insulin_prediction - INFO - Model loaded from /Users/malithgeevinda/DiabetesTracker/backend/ml/models/insulin_model.joblib
+2025-05-23 15:05:46,782 - __main__ - INFO - Insulin model loaded: True
+2025-05-23 15:05:46,818 - glucose_prediction_model - INFO - Model loaded from /Users/malithgeevinda/DiabetesTracker/backend/ml/models/glucose_model.joblib
+2025-05-23 15:05:46,818 - __main__ - INFO - 30-min glucose model loaded: True
+2025-05-23 15:05:46,845 - glucose_prediction_model - INFO - Model loaded from /Users/malithgeevinda/DiabetesTracker/backend/ml/models/glucose_model_60min.joblib
+2025-05-23 15:05:46,845 - __main__ - INFO - 60-min glucose model loaded: True
+2025-05-23 15:05:46,846 - __main__ - INFO - Starting API server on port 5002
+2025-05-23 15:05:46,964 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://172.28.7.145:5002
+2025-05-23 15:05:46,964 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
